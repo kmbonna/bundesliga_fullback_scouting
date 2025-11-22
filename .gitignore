@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Large binary or model files
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pt
+*.pth
+
+
+# Tableau cache/extract files
+*.hyper
+*.tde
+*.tdsx
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code folders
+.vscode/
+
+# Environment files (optional)
+.env
+
+*.zip
